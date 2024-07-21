@@ -4,7 +4,7 @@ echo killing steam
 taskkill /f /IM "steam.exe"
 
 echo running steam
-"C:\Program Files (x86)\Steam\NoSteamWebHelper.exe"
+"C:\Program Files (x86)\Steam\NoSteamWebHelper.exe" -sleep
 
 
 echo closing...
